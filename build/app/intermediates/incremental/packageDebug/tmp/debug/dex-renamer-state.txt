@@ -1,0 +1,4 @@
+#Sat Nov 16 12:26:56 AWST 2019
+base.0=C\:\\Users\\Ethan Pui\\Desktop\\tourismandco-step-step01\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
